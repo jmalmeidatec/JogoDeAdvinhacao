@@ -1,5 +1,7 @@
 # *Jogo de Adivinhação C#*
 
+![Gameplay](Gameplay.gif)
+
 # Meu 1° projeto pessoal com C#
 
 ## Visão Geral
